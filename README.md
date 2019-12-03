@@ -9,10 +9,10 @@ To use Dropbox API, a new app has to be registered in Dropbox App Console. Follo
 2 - After signing in click on Create App.
 3 - In the next page make the following selections
   1. Choose an API
-      Select Dropbox API
+      Select Dropbox API.
   2. Choose the type of access you need
       Select Full Dropbox – Access to all files and folders in a user's Dropbox.
   3. Name your app
-      Give a name to your APP
-4 - Click on Create App
-5 - In the next page, click on Generate, to generate ACCESS TOKEN
+      Give a name to your APP.
+4 - Click on Create App.
+5 - In the next page, click on Generate, to generate ACCESS TOKEN.
